@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "easter",
+		"player1": "btom",
+		"player2": "yabaoji",
+		"player3": null,
+		"events": [
+			[
+				128648.648648649,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				129729.72972973,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					],
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					]
+				]
+			],
+			[
+				147027.027027027,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				148378.378378378,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_gone",
+		"bpm": 111,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Close Chuckle"
+	}
+}
