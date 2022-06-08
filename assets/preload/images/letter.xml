@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="letter.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="letter pop0000" x="2" y="2" width="2012" height="1522"/>
+	<SubTexture name="letter pop0001" x="2" y="2" width="2012" height="1522"/>
+	<SubTexture name="letter pop0002" x="2016" y="2" width="2012" height="1210" frameX="0" frameY="-165" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0003" x="2016" y="2" width="2012" height="1210" frameX="0" frameY="-165" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0004" x="2" y="1526" width="2012" height="1174" frameX="0" frameY="-184" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0005" x="2" y="1526" width="2012" height="1174" frameX="0" frameY="-184" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0006" x="2016" y="1526" width="2012" height="1176" frameX="0" frameY="-183" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0007" x="2016" y="1526" width="2012" height="1176" frameX="0" frameY="-183" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0008" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0009" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0010" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0011" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0012" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0013" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0014" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0015" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0016" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0017" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0018" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0019" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0020" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0021" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0022" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0023" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0024" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0025" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0026" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0027" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0028" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0029" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0030" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0031" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0032" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0033" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0034" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0035" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0036" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0037" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0038" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0039" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0040" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0041" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0042" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0043" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0044" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0045" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0046" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0047" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0048" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+	<SubTexture name="letter pop0049" x="2" y="2704" width="2012" height="1178" frameX="0" frameY="-182" frameWidth="2012" frameHeight="1522"/>
+</TextureAtlas>

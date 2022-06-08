@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="box.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="box out0000" x="2" y="2" width="2012" height="1166" frameX="0" frameY="-231" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0001" x="2" y="2" width="2012" height="1166" frameX="0" frameY="-231" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0002" x="2016" y="2" width="2012" height="1563" frameX="0" frameY="-24" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0003" x="2016" y="2" width="2012" height="1563" frameX="0" frameY="-24" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0004" x="4030" y="2" width="2012" height="1609"/>
+	<SubTexture name="box out0005" x="4030" y="2" width="2012" height="1609"/>
+	<SubTexture name="box out0006" x="6044" y="2" width="2012" height="1604" frameX="0" frameY="-2" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0007" x="6044" y="2" width="2012" height="1604" frameX="0" frameY="-2" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0008" x="2" y="1613" width="2012" height="1602" frameX="0" frameY="-3" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0009" x="2" y="1613" width="2012" height="1602" frameX="0" frameY="-3" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0010" x="2" y="1613" width="2012" height="1602" frameX="0" frameY="-3" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0011" x="2" y="1613" width="2012" height="1602" frameX="0" frameY="-3" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0012" x="2" y="1613" width="2012" height="1602" frameX="0" frameY="-3" frameWidth="2012" frameHeight="1609"/>
+	<SubTexture name="box out0013" x="2" y="1613" width="2012" height="1602" frameX="0" frameY="-3" frameWidth="2012" frameHeight="1609"/>
+</TextureAtlas>

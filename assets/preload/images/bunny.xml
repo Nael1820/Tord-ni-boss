@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bunny.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bunny pop0000" x="2" y="2" width="196" height="328" frameX="-2" frameY="-292" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0001" x="2" y="2" width="196" height="328" frameX="-2" frameY="-292" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0002" x="2" y="2" width="196" height="328" frameX="-2" frameY="-293" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0003" x="2" y="2" width="196" height="328" frameX="-2" frameY="-293" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0004" x="2" y="2" width="196" height="328" frameX="-2" frameY="-323" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0005" x="2" y="2" width="196" height="328" frameX="-2" frameY="-323" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0006" x="200" y="2" width="130" height="369" frameX="-42" frameY="0" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0007" x="200" y="2" width="130" height="369" frameX="-42" frameY="0" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0008" x="332" y="2" width="201" height="317" frameX="0" frameY="-37" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0009" x="332" y="2" width="201" height="317" frameX="0" frameY="-37" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0010" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0011" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0012" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0013" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0014" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0015" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0016" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0017" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0018" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0019" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0020" x="2" y="2" width="196" height="328" frameX="-2" frameY="-33" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0021" x="535" y="2" width="189" height="281" frameX="-7" frameY="-68" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0022" x="535" y="2" width="189" height="281" frameX="-7" frameY="-68" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0023" x="726" y="2" width="200" height="283" frameX="-19" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0024" x="726" y="2" width="200" height="283" frameX="-19" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0025" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0026" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0027" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0028" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0029" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0030" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0031" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0032" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0033" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0034" x="2" y="373" width="219" height="283" frameX="-12" frameY="-32" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0035" x="223" y="373" width="219" height="262" frameX="-12" frameY="-57" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0036" x="223" y="373" width="219" height="262" frameX="-12" frameY="-57" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0037" x="444" y="373" width="227" height="277" frameX="-13" frameY="-9" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0038" x="444" y="373" width="227" height="277" frameX="-13" frameY="-9" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0039" x="673" y="373" width="164" height="281" frameX="-35" frameY="-4" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0040" x="673" y="373" width="164" height="281" frameX="-35" frameY="-4" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0041" x="2" y="658" width="219" height="285" frameX="-12" frameY="-318" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0042" x="2" y="658" width="219" height="285" frameX="-12" frameY="-318" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0043" x="2" y="373" width="219" height="283" frameX="-12" frameY="-289" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0044" x="2" y="373" width="219" height="283" frameX="-12" frameY="-289" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0045" x="2" y="373" width="219" height="283" frameX="-12" frameY="-288" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0046" x="2" y="373" width="219" height="283" frameX="-12" frameY="-288" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0047" x="2" y="373" width="219" height="283" frameX="-12" frameY="-288" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0048" x="2" y="373" width="219" height="283" frameX="-12" frameY="-288" frameWidth="240" frameHeight="651"/>
+	<SubTexture name="bunny pop0049" x="2" y="373" width="219" height="283" frameX="-12" frameY="-288" frameWidth="240" frameHeight="651"/>
+</TextureAtlas>
