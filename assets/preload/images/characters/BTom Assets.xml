@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BTom Assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Btom Annodown0000" x="2" y="2" width="426" height="647" frameX="0" frameY="-8" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0001" x="2" y="2" width="426" height="647" frameX="0" frameY="-8" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0002" x="430" y="2" width="424" height="651" frameX="-1" frameY="-5" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0003" x="430" y="2" width="424" height="651" frameX="-1" frameY="-5" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0004" x="856" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0005" x="856" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0006" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0007" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0008" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0009" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0010" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0011" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0012" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0013" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annodown0014" x="1280" y="2" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Annoidle0000" x="1704" y="2" width="426" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0001" x="1704" y="2" width="426" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0002" x="2132" y="2" width="425" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0003" x="2132" y="2" width="425" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0004" x="2559" y="2" width="424" height="657" frameX="-1" frameY="-7" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0005" x="2559" y="2" width="424" height="657" frameX="-1" frameY="-7" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0006" x="2985" y="2" width="422" height="663" frameX="-2" frameY="-2" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0007" x="2985" y="2" width="422" height="663" frameX="-2" frameY="-2" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0008" x="3409" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0009" x="3409" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0010" x="3833" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0011" x="3833" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0012" x="4257" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0013" x="4257" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0014" x="3833" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoidle0015" x="3833" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0000" x="4681" y="2" width="425" height="665" frameX="0" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0001" x="4681" y="2" width="425" height="665" frameX="0" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0002" x="5108" y="2" width="423" height="665" frameX="-1" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0003" x="5108" y="2" width="423" height="665" frameX="-1" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0004" x="5533" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0005" x="5533" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0006" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0007" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0008" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0009" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0010" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0011" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0012" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0013" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoleft0014" x="5957" y="2" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom Annoright0000" x="6381" y="2" width="425" height="656" frameX="0" frameY="-4" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0001" x="6381" y="2" width="425" height="656" frameX="0" frameY="-4" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0002" x="6808" y="2" width="424" height="659" frameX="0" frameY="-1" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0003" x="6808" y="2" width="424" height="659" frameX="0" frameY="-1" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0004" x="7234" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0005" x="7234" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0006" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0007" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0008" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0009" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0010" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0011" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0012" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0013" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoright0014" x="7658" y="2" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Annoup0000" x="2" y="670" width="417" height="674" frameX="-2" frameY="0" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0001" x="2" y="670" width="417" height="674" frameX="-2" frameY="0" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0002" x="421" y="670" width="420" height="670" frameX="-1" frameY="-4" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0003" x="421" y="670" width="420" height="670" frameX="-1" frameY="-4" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0004" x="843" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0005" x="843" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0006" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0007" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0008" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0009" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0010" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0011" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0012" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0013" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Annoup0014" x="1267" y="670" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Missdown0000" x="2546" y="1346" width="426" height="647" frameX="0" frameY="-3" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Missdown0001" x="2546" y="1346" width="426" height="647" frameX="0" frameY="-3" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom Missdown0002" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0003" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0004" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0005" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0006" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0007" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0008" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0009" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0010" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0011" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0012" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0013" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missdown0014" x="1691" y="670" width="424" height="651" frameX="-1" frameY="0" frameWidth="426" frameHeight="651"/>
+	<SubTexture name="Btom Missleft0000" x="2117" y="670" width="425" height="665"/>
+	<SubTexture name="Btom Missleft0001" x="2117" y="670" width="425" height="665"/>
+	<SubTexture name="Btom Missleft0002" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0003" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0004" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0005" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0006" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0007" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0008" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0009" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0010" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0011" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0012" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0013" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missleft0014" x="2544" y="670" width="423" height="665" frameX="-1" frameY="0" frameWidth="425" frameHeight="665"/>
+	<SubTexture name="Btom Missright0000" x="426" y="2014" width="425" height="656" frameX="0" frameY="-3" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Missright0001" x="426" y="2014" width="425" height="656" frameX="0" frameY="-3" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom Missright0002" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0003" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0004" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0005" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0006" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0007" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0008" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0009" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0010" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0011" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0012" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0013" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missright0014" x="2969" y="670" width="424" height="659" frameX="0" frameY="0" frameWidth="425" frameHeight="659"/>
+	<SubTexture name="Btom Missup0000" x="2127" y="2014" width="417" height="674" frameX="-1" frameY="0" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Missup0001" x="2127" y="2014" width="417" height="674" frameX="-1" frameY="0" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom Missup0002" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0003" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0004" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0005" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0006" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0007" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0008" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0009" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0010" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0011" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0012" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0013" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom Missup0014" x="3395" y="670" width="420" height="670" frameX="0" frameY="-4" frameWidth="420" frameHeight="674"/>
+	<SubTexture name="Btom death End0000" x="3817" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0001" x="3817" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0002" x="4241" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0003" x="4241" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0004" x="4665" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0005" x="4665" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0006" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0007" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0008" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0009" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0010" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0011" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0012" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0013" x="5089" y="670" width="422" height="666"/>
+	<SubTexture name="Btom death End0014" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0000" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0001" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0002" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0003" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0004" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0005" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0006" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0007" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0008" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0009" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0010" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0011" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0012" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0013" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathLoop0014" x="5513" y="670" width="422" height="666"/>
+	<SubTexture name="Btom deathStart0000" x="5937" y="670" width="560" height="666" frameX="-36" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0001" x="5937" y="670" width="560" height="666" frameX="-36" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0002" x="6499" y="670" width="613" height="666"/>
+	<SubTexture name="Btom deathStart0003" x="6499" y="670" width="613" height="666"/>
+	<SubTexture name="Btom deathStart0004" x="7114" y="670" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0005" x="7114" y="670" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0006" x="7538" y="670" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0007" x="7538" y="670" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0008" x="2" y="1346" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0009" x="2" y="1346" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0010" x="426" y="1346" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0011" x="850" y="1346" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0012" x="1274" y="1346" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0013" x="1698" y="1346" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom deathStart0014" x="2122" y="1346" width="422" height="666" frameX="-88" frameY="0" frameWidth="613" frameHeight="666"/>
+	<SubTexture name="Btom down0000" x="2546" y="1346" width="426" height="647" frameX="0" frameY="-8" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0001" x="2546" y="1346" width="426" height="647" frameX="0" frameY="-8" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0002" x="2974" y="1346" width="424" height="651" frameX="-1" frameY="-5" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0003" x="2974" y="1346" width="424" height="651" frameX="-1" frameY="-5" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0004" x="3400" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0005" x="3400" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0006" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0007" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0008" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0009" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0010" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0011" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0012" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0013" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom down0014" x="3824" y="1346" width="422" height="658" frameX="-2" frameY="0" frameWidth="426" frameHeight="658"/>
+	<SubTexture name="Btom idle0000" x="4248" y="1346" width="426" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0001" x="4248" y="1346" width="426" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0002" x="4676" y="1346" width="425" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0003" x="4676" y="1346" width="425" height="653" frameX="0" frameY="-9" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0004" x="5103" y="1346" width="424" height="657" frameX="-1" frameY="-7" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0005" x="5103" y="1346" width="424" height="657" frameX="-1" frameY="-7" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0006" x="5529" y="1346" width="422" height="663" frameX="-2" frameY="-2" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0007" x="5529" y="1346" width="422" height="663" frameX="-2" frameY="-2" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0008" x="5953" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0009" x="5953" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0010" x="6377" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0011" x="6377" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0012" x="6377" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0013" x="6377" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0014" x="6377" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom idle0015" x="6377" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="426" frameHeight="666"/>
+	<SubTexture name="Btom left0000" x="6801" y="1346" width="425" height="665" frameX="0" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0001" x="6801" y="1346" width="425" height="665" frameX="0" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0002" x="7228" y="1346" width="423" height="665" frameX="-1" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0003" x="7228" y="1346" width="423" height="665" frameX="-1" frameY="-1" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0004" x="7653" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0005" x="7653" y="1346" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0006" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0007" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0008" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0009" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0010" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0011" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0012" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0013" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom left0014" x="2" y="2014" width="422" height="666" frameX="-2" frameY="0" frameWidth="425" frameHeight="666"/>
+	<SubTexture name="Btom right0000" x="426" y="2014" width="425" height="656" frameX="0" frameY="-4" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0001" x="426" y="2014" width="425" height="656" frameX="0" frameY="-4" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0002" x="853" y="2014" width="424" height="659" frameX="0" frameY="-1" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0003" x="853" y="2014" width="424" height="659" frameX="0" frameY="-1" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0004" x="1279" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0005" x="1279" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0006" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0007" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0008" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0009" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0010" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0011" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0012" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0013" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom right0014" x="1703" y="2014" width="422" height="660" frameX="-1" frameY="0" frameWidth="425" frameHeight="660"/>
+	<SubTexture name="Btom up0000" x="2127" y="2014" width="417" height="674" frameX="-2" frameY="0" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0001" x="2127" y="2014" width="417" height="674" frameX="-2" frameY="0" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0002" x="2546" y="2014" width="420" height="670" frameX="-1" frameY="-4" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0003" x="2546" y="2014" width="420" height="670" frameX="-1" frameY="-4" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0004" x="2968" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0005" x="2968" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0006" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0007" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0008" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0009" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0010" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0011" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0012" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0013" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+	<SubTexture name="Btom up0014" x="3392" y="2014" width="422" height="669" frameX="0" frameY="-5" frameWidth="422" frameHeight="674"/>
+</TextureAtlas>
